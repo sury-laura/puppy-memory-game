@@ -29,7 +29,7 @@ body {
 .card {
     width: 100px;
     height: 150px;
-    background-image: url('yes-good-dog-paw-print-icon.png');
+    background-image: url('./yes-good-dog-paw-print-icon.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: 110px;
