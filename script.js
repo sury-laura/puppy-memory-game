@@ -92,10 +92,10 @@
                     }, 800);
                 }
             }
-});
+    });
 
-    gameBoard.append(cardElement);
-}
+        gameBoard.append(cardElement);
+    }
 }
 
 createBoard();
