@@ -6,4 +6,4 @@
 #### -index.html: Is the main webpage that includes the title of the webpage, links to style.css and javascript of the website. Also containing a side-panel where the buttons and messages appear for the game.
 #### -script.js: Contains most of the handling and functions happening within the game, assigning photos, arrays, matching cards, shuffling, and commands for when each button is pressed.
 #### -styles.css: The styles of the website, the game header that displays the title, button sizes, position and colors. As well as being interactable with the curser of the user.
-#### Credits: I did use an ai tool, chat gpt. For correcting syntax errors and giving me suggestions on how I should format my program and how I could do specific functions.
+#### Credits: I did use an ai tool, chat gpt. For correcting syntax errors and giving me suggestions on how I should format my program and how I could do specific functions. Such as figuring out how to shuffle and create the cards.
